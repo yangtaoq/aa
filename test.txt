@@ -1,9 +1,0 @@
-public class Test {
-    @org.junit.Test
-    public void test(){
-        System.out.println("hello");
-        System.out.println("hello");
-        System.out.println("tom");
-System.out.println("rose");
-    }
-}
